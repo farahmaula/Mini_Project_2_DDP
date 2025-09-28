@@ -68,7 +68,7 @@ Dan jika mahasiswa tidak memilih kedua pilihan maka output tidak valid seperti h
 # Menu Kedua
 <img width="791" height="223" alt="image" src="https://github.com/user-attachments/assets/4540ca04-0e7f-4db3-88f7-9eb36ecae03e" />
 
-Pada menu terakhir ini mahasiswa bisa keluar dari sistem
+Pada menu terakhir ini mahasiswa bisa keluar dari sistem.
 
 
 <img width="490" height="193" alt="image" src="https://github.com/user-attachments/assets/bef69a42-c25d-473c-a43e-537b424c07e4" />
