@@ -45,6 +45,7 @@ Di menu keempat ini digunakan untuk menghapus data. Misalnya digunakan apabila a
 
 # Menu Kelima
 <img width="805" height="303" alt="image" src="https://github.com/user-attachments/assets/38b396b0-bb52-4b51-a6f4-6e448cb88830" />
+
 Selanjutnya di menu kelima ini kita bisa mengakhiri dan keluar dari sistem sebagai admin.
 
 # OUTPUT MAHASISWA
