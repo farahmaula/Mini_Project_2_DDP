@@ -12,7 +12,7 @@ Catatan Kehadiran Mahasiswa
 
 # OUTPUT ADMIN
 Pembahasan pertama adalah login menggunakan user admin dari sistem.
-<img width="1397" height="465" alt="Screenshot 2025-09-28 183136" src="https://github.com/user-attachments/assets/2b3b994b-6b2f-4194-9411-38e215e498af" />
+<img width="1397" height="465" alt="Screenshot 2025-09-28 183136" src="https://github.com/user-attachments/assets/2b3b994b-6b2f-4194-9411-38e215e498af" /> 
 Pada pembuka halaman sistem pengguna wajib melakukan login dengan NIM/username dan password yang telah terdaftar seperti pada gambar di atas kemudian barulah bisa masuk ke menu utama. Pada gambar diatas pengguna login menggunakan akun admin.
 Setelah berhasil masuk, ke dalam sistem sebagai admin akan muncul menu utama yaitu:
 1. Tambah data
