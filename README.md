@@ -27,7 +27,18 @@ Dalam menu tambah data admin akan memasukkan data mahasiswa seperti diatas yaitu
 
 # Menu Kedua
 <img width="679" height="412" alt="Screenshot 2025-09-28 191927" src="https://github.com/user-attachments/assets/f7f92237-ec20-4a74-b7f5-627c81ea3c07" />
+
 Di menu kedua pengguna atau admin dapat melihat data yang sudah dimasukkan seperti pada output diatas. Selanjutnya akan muncul kembali daftar menu utama
 
 # Menu Ketiga
+<img width="945" height="358" alt="image" src="https://github.com/user-attachments/assets/8c5cd093-ecea-46ff-a911-c7858bc961a6" />
+Pada menu ketiga admin dapat melakukan update kepada mahasiswa apabila mahasiswa tidak hadir dan tidak mengisi catatan kehadiran untuk melakukan konfirmasi. Apabila mahasiswa mengisi catatan kehadiran dengan tepat waktu sebelum waktu yang ditentukan habis walaupun tidak hadir maka akan muncul output "mahasiswa tepat waktu mengisi kehadiran".
+
+<img width="1031" height="354" alt="image" src="https://github.com/user-attachments/assets/ca5915ad-c8dd-4098-a8b8-c762f35ca2df" />
+Apabila mahasiswa mengisi terlambat catatan kehadiran maka admin di dalam sistem langsung mengkategorikan dengan alpa/tanpa keterangan seperti pada output di atas.
+
+# Menu Keempat
+<img width="1014" height="349" alt="image" src="https://github.com/user-attachments/assets/92fd038a-db3d-4feb-8a37-244c948cbfcd" />
+
+
 
