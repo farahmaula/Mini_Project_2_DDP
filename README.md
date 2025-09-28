@@ -29,7 +29,7 @@ Dalam menu tambah data admin akan memasukkan data mahasiswa seperti diatas yaitu
 # Menu Kedua
 <img width="679" height="412" alt="Screenshot 2025-09-28 191927" src="https://github.com/user-attachments/assets/f7f92237-ec20-4a74-b7f5-627c81ea3c07" />
 
-Di menu kedua pengguna atau admin dapat melihat data yang sudah dimasukkan seperti pada output diatas. Selanjutnya akan muncul kembali daftar menu utama
+Di menu kedua admin dapat melihat data yang sudah dimasukkan seperti pada output diatas. Selanjutnya akan muncul kembali daftar menu utama.
 
 # Menu Ketiga
 <img width="945" height="358" alt="image" src="https://github.com/user-attachments/assets/8c5cd093-ecea-46ff-a911-c7858bc961a6" />
