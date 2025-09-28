@@ -10,7 +10,7 @@ Catatan Kehadiran Mahasiswa
 # FLOWCHART 
 ![flowchrt minpro 2](https://github.com/user-attachments/assets/2bdb486b-a171-469b-a680-d0b8ae01d08f)
 
-# OUTPUT
+# OUTPUT ADMIN
 Pembahasan pertama adalah login menggunakan user admin dari sistem.
 <img width="1397" height="465" alt="Screenshot 2025-09-28 183136" src="https://github.com/user-attachments/assets/2b3b994b-6b2f-4194-9411-38e215e498af" />
 Pada pembuka halaman sistem pengguna wajib melakukan login dengan NIM/username dan password yang telah terdaftar seperti pada gambar di atas kemudian barulah bisa masuk ke menu utama. Pada gambar diatas pengguna login menggunakan akun admin.
@@ -39,6 +39,12 @@ Apabila mahasiswa mengisi terlambat catatan kehadiran maka admin di dalam sistem
 
 # Menu Keempat
 <img width="1014" height="349" alt="image" src="https://github.com/user-attachments/assets/92fd038a-db3d-4feb-8a37-244c948cbfcd" />
+Di menu keempat ini digunakan untuk menghapus data. Misalnya digunakan apabila ada yang mengundurkan diri, sudah lulus, ada masalah dengan datanya, dan alasan lainnya yang mengharuskan menghapus data. Data yang dihapus cukup memasukkan nim saja seperti pada output di atas.
+
+# Menu Kelima
+<img width="805" height="303" alt="image" src="https://github.com/user-attachments/assets/38b396b0-bb52-4b51-a6f4-6e448cb88830" />
+Selanjutnya di menu kelima ini kita bisa mengakhiri dan keluar dari sistem sebagai admin.
+
 
 
 
