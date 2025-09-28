@@ -55,10 +55,12 @@ Saat login menjadi mahasiswa masukkan NIM yang sudah terdaftar oleh admin dan ju
 
 # Menu Pertama
 <img width="919" height="392" alt="image" src="https://github.com/user-attachments/assets/af7b163f-fea7-4dd8-858d-46f92a64def9" />
+
 Pada menu pertama mahasiswa harus memasukkan tanggal, bulan, tahun, dan jam kehadiran. Setelah memasukkan data tersebut sistem akan menanyakan apakah mahasiswa hadir di tempat atau tidak, apabila mahasiswa hadir di tempat maka sistem akan mengeluarkan output "hadir"
 
 <img width="798" height="418" alt="image" src="https://github.com/user-attachments/assets/f86314b3-4e7b-4b00-ba65-eaae0e02db93" />
 <img width="798" height="418" alt="image" src="https://github.com/user-attachments/assets/d2838b58-1664-4dd8-b8dc-f64267d667fc" />
+
 Apabila mahasiswa tidak hadir maka sistem akan memberi pilihan S atau I. Jika memilih S maka output yang keluar adalah sakit yang artinya mahasiswa tidak masuk dikarenakan sakit, sedangkan jika memilih I maka output yang keluar adalah Izin artinya mahasiswa tidak masuk karena sedang izin.
 Dan jika mahasiswa tidak memilih kedua pilihan maka output tidak valid seperti hasil dibawah ini.
 <img width="452" height="113" alt="image" src="https://github.com/user-attachments/assets/9d6226a1-2573-4dae-9b50-2c647073a652" />
