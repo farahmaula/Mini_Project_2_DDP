@@ -21,5 +21,13 @@ Setelah berhasil masuk, ke dalam sistem sebagai admin akan muncul menu utama yai
 4. Hapus data
 5. Keluar
 
-# Tambah Data
+# Menu Pertama
+<img width="969" height="433" alt="Screenshot 2025-09-28 191501" src="https://github.com/user-attachments/assets/c464fbff-ebca-428b-8c0c-8b854a8a5398" />
+Dalam menu tambah data admin akan memasukkan data mahasiswa seperti diatas yaitu memasukkan nama, NIM, tanggal lahir, dan tahun masuk kuliah/tahun angkatan. Setelah berhasil memasukkan data akan muncul kembali menu utama.
+
+# Menu Kedua
+<img width="679" height="412" alt="Screenshot 2025-09-28 191927" src="https://github.com/user-attachments/assets/f7f92237-ec20-4a74-b7f5-627c81ea3c07" />
+Di menu kedua pengguna atau admin dapat melihat data yang sudah dimasukkan seperti pada output diatas. Selanjutnya akan muncul kembali daftar menu utama
+
+# Menu Ketiga
 
