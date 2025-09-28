@@ -33,6 +33,7 @@ Di menu kedua admin dapat melihat data yang sudah dimasukkan seperti pada output
 
 # Menu Ketiga
 <img width="945" height="358" alt="image" src="https://github.com/user-attachments/assets/8c5cd093-ecea-46ff-a911-c7858bc961a6" />
+
 Pada menu ketiga admin dapat melakukan update kepada mahasiswa apabila mahasiswa tidak hadir dan tidak mengisi catatan kehadiran untuk melakukan konfirmasi. Apabila mahasiswa mengisi catatan kehadiran dengan tepat waktu sebelum waktu yang ditentukan habis walaupun tidak hadir maka akan muncul output "mahasiswa tepat waktu mengisi kehadiran".
 
 <img width="1031" height="354" alt="image" src="https://github.com/user-attachments/assets/ca5915ad-c8dd-4098-a8b8-c762f35ca2df" />
@@ -46,6 +47,28 @@ Di menu keempat ini digunakan untuk menghapus data. Misalnya digunakan apabila a
 <img width="805" height="303" alt="image" src="https://github.com/user-attachments/assets/38b396b0-bb52-4b51-a6f4-6e448cb88830" />
 Selanjutnya di menu kelima ini kita bisa mengakhiri dan keluar dari sistem sebagai admin.
 
+# OUTPUT MAHASISWA
+Pembahasan kedua adalah login menggunakan user mahasiswa.
+<img width="1257" height="367" alt="image" src="https://github.com/user-attachments/assets/ae0149c1-6c02-4bf9-a44a-fa2e4db4a9e4" />
+Saat login menjadi mahasiswa masukkan NIM yang sudah terdaftar oleh admin dan juga password.
+
+# Menu Pertama
+<img width="919" height="392" alt="image" src="https://github.com/user-attachments/assets/af7b163f-fea7-4dd8-858d-46f92a64def9" />
+Pada menu pertama mahasiswa harus memasukkan tanggal, bulan, tahun, dan jam kehadiran. Setelah memasukkan data tersebut sistem akan menanyakan apakah mahasiswa hadir di tempat atau tidak, apabila mahasiswa hadir di tempat maka sistem akan mengeluarkan output "hadir"
+
+<img width="798" height="418" alt="image" src="https://github.com/user-attachments/assets/f86314b3-4e7b-4b00-ba65-eaae0e02db93" />
+<img width="798" height="418" alt="image" src="https://github.com/user-attachments/assets/d2838b58-1664-4dd8-b8dc-f64267d667fc" />
+Apabila mahasiswa tidak hadir maka sistem akan memberi pilihan S atau I. Jika memilih S maka output yang keluar adalah sakit yang artinya mahasiswa tidak masuk dikarenakan sakit, sedangkan jika memilih I maka output yang keluar adalah Izin artinya mahasiswa tidak masuk karena sedang izin.
+Dan jika mahasiswa tidak memilih kedua pilihan maka output tidak valid seperti hasil dibawah ini.
+<img width="452" height="113" alt="image" src="https://github.com/user-attachments/assets/9d6226a1-2573-4dae-9b50-2c647073a652" />
+
+# Menu Kedua
+<img width="791" height="223" alt="image" src="https://github.com/user-attachments/assets/4540ca04-0e7f-4db3-88f7-9eb36ecae03e" />
+Pada menu terakhir ini mahasiswa bisa keluar dari sistem
 
 
+
+
+<img width="490" height="193" alt="image" src="https://github.com/user-attachments/assets/bef69a42-c25d-473c-a43e-537b424c07e4" />
+Gambar di atas adalah salah satu contoh apabila username atau password salah, sehingga login gagal.
 
